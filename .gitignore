@@ -1,0 +1,3 @@
+# Игнорировать файл foo.txt.
+.idea
+AnimalClub.iml
